@@ -12,6 +12,7 @@ where grader is the text file containing the local key to connect as grader user
 
 ## Configuration Steps
 ### 1. Get update on installed packages and upgrade them
+
 ```
 sudo apt-get update
 sudo apt-get upgrade
@@ -165,7 +166,7 @@ python populate_categories.py
 ### 18. Configure Apache to serve the web application using WSGI
 ```
 # create the web app WSGI file
-sudo nano /var/www/item-catalog/app.wsgi
+sudo nano /var/www/app.wsgi
 ```
 Add the following lines to the file and save the file:
 ```
