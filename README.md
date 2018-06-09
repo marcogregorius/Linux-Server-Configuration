@@ -1,6 +1,8 @@
 # Linux Server Configuration
 
-This README shows how to set up this [Item Catalog Website](https://github.com/marcogregorius/item_catalog) on a Ubuntu Server hosted with Amazon Lightsail service. Includes installing updates, securing the server from a number of attack vectors, and installing/configuring web and database servers.
+This README shows how to set up this [Item Catalog Website](https://github.com/marcogregorius/item_catalog)
+on a Ubuntu Server hosted with Amazon Lightsail service. Includes installing updates, securing the
+server from a number of attack vectors, and installing/configuring web and database servers.
 
 ## Server Information
 - IP Address: 54.255.161.210
