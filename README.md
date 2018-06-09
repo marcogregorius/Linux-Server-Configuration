@@ -195,3 +195,8 @@ sudo service apache2 restart
 ### 20. Test the web app
 - Browse to the IP address http://54.255.161.210
 - If the web is showing error, use `sudo tail /var/log/apache2/error.log` to debug.
+
+## Create DNS server
+- Subscribe to any DNS service provider
+- Add in http://54.255.161.210 as the default IP address when visiting the DNS name
+- Check out my website with DNS configured at http://catalog.marcogreg.com
