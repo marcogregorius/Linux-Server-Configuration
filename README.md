@@ -129,7 +129,7 @@ sudo pip install hashlib
 sudo pip install functools
 ```
 
-### 14. Change project.py file name to __init__.py
+### 14. Change project.py file name to `__init__.py`
 ```
 sudo mv /var/www/item_catalog/project.py /var/www/item_catalog/__init__.py
 ```
